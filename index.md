@@ -31,13 +31,18 @@ Puedes instalar Minich siguiendo cuidadosamente los siguientes pasos:
   - Luego de ejecutar el comando `/genConfig`, veremos que en la carpeta de Minich se creó un nuevo archivo, llamado `.env`, este es el archivo de configuración para los clientes.
   - Abrimos el archivo con nuestro editor de preferencia, dentro de él estarán dos campos:
     - `DISCORD_TOKEN=`
-      - En este ponemos el token de nuestro bot de Discord, quedando así: `DISCORD_TOKEN=ODc5ODg1MzcwMTE5MDQ5MzA2.YSWPGw.yfAR0xrj1SV17EmLZCLuSNmL17M`
+      - En este ponemos el token de nuestro bot de Discord, quedando algo así: `DISCORD_TOKEN=Rw8xVJGmSEfx5fC6Ngq5o277.Kwj4Pd.tCv824bZKVm8uRwDbARJVVqdGif`
     - `TELEGRAM_TOKEN=`
-      - En este ponemos el token de nuestro bot de Telegram, quedando así: `TELEGRAM_TOKEN=1980907807:AAGf2DjFYkEUewYCuXWgGAgGxwAegvoNVi0`
+      - En este ponemos el token de nuestro bot de Telegram, quedando algo así: `TELEGRAM_TOKEN=5943934737:9G44weXoSh7Yo9Q35h52mfWiiqEWFHwvLRV`
   - Una vez editado, lo guardamos y volvemos a ejecutar la aplicación (si no sabes cómo, regresa al subpaso 2 del paso 5)
   - Dentro de la aplicación, ejecutamos el comando `/setup`, esto configurará la base de datos para las configuraciones de la aplicación y los contactos.
 - Paso 7:
   - Luego de ese paso increíblemente largo, ya podemos usar la aplicación.
+  - Puedes escribirle a tus amigos usando el comando `/chat` seguido de la ID de su usuario.
+
+## En caso de errores
+
+Puedes un issue en el [repositorio oficial de Minich](https://github.com/anventech/minich) explicando el problema, también, puedes incluir capturas del problema.
 
 ## Más información
 

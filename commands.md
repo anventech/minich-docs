@@ -18,7 +18,7 @@ Comandos de la aplicación.
 
 > Nombre: **chat**
 >
-> Descripción: **Cambia de chat.**
+> Descripción: **Cambia entre chats.**
 >
 > Uso: **chat {ID del chat/Nombre del contacto}**
 
@@ -96,6 +96,15 @@ Comandos de la aplicación.
 > Descripción: **Cambia entre clientes.**
 >
 > Uso: **switch {Nombre del cliente}**
+
+
+### Comando: switchMode
+
+> Nombre: **switchMode**
+>
+> Descripción: **Cambia entre modos.**
+>
+> Uso: **switchMode {Nombre del modo}**
 
 
 
